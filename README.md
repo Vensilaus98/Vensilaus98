@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vensilaus98
 - 👀 I’m interested in backend development using Laravel
-- 🌱 I’m currently learning SpringBoot and Go
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on different open source projects
 - 📫 How to reach me reach me out through email: patrickvensilaus98@gmail.com
 
